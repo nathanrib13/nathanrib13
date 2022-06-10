@@ -7,11 +7,11 @@
 ##
 <div align="center">
   <a href="https://github.com/nathanrib13">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathanrib13&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrib13&layout=compact&theme=highcontrast"/>
 </div>
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrib13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
