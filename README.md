@@ -5,12 +5,12 @@
 - 📚 I’m currently learning JavaScritp, HTML, CSS, NodeJS e ReactJS
 
 ##
-<div align="center">
-  <a href="https://github.com/nathanrib13">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrib13&layout=compact&theme=highcontrast"/>
-</div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrib13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div style="display: inline_block"><br>
+<a href="https://github.com/nathanrib13/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanrib13&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/nathanrib13/nathanrib13.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=nathanrib13.github.io&theme=buefy" />
+</a>
   
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
