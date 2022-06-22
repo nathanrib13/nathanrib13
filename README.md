@@ -5,7 +5,7 @@
 - 📚 I’m currently learning JavaScritp, HTML, CSS, NodeJS e ReactJS
 
 ##
- <a href="https://github.com/nathanrib13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanrib13&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nathan's github stats" /></a> | <a href="https://github.com/nathanrib13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natharib13&layout=compact&theme=buefy&hide_border=true" /></a> |
+ <a href="https://github.com/nathanrib13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanrib13&show_icons=true&include_all_commits=true&theme=highcontrasct_border=true" alt="Nathan's github stats" /></a> | <a href="https://github.com/nathanrib13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natharib13&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
