@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanrib13&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/nathanrib13/nathanrib13.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=nathanrib13.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanrib13&repo=nathanrib13.github.io&theme=buefy" />
 </a>
   
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
