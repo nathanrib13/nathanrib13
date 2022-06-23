@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently looking for a job opportunity as a web developer 
-- 📚 I’m currently learning JavaScritp, HTML, CSS, NodeJS e ReactJS
+- 📚 I’m currently learning JavaScritp, HTML, CSS, NodeJS and ReactJS
 
 ##
 <div>
