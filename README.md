@@ -6,10 +6,11 @@
 
 ##
 <div align="center">
-  <a href="https://github.com/nathanrib13/github-readme-stats">
+  <a href="https://github.com/nathanrib13">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathanrib13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrib13&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <a href="https://github.com/nathanrib13">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrib13&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 
 
 
