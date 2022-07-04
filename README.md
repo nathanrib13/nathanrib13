@@ -5,11 +5,11 @@
 - 📚 I’m currently learning JavaScritp, HTML, CSS, NodeJS and ReactJS
 
 ##
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=nathanrib13&show_icons=true&theme=radical " />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrib13&layout=compact" />
-
-
+<div align="center">
+  <a href="https://github.com/nathanrib13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanrib13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrib13&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <br>
 
  <div>
