@@ -66,7 +66,7 @@
     alt="Next"
     height="50"
     width="50"
-    src="https://www.svgrepo.com/show/342062/next-js.svg"
+    src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"
   />
   <img
     align="center"
