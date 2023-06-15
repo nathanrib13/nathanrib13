@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently looking for a job opportunity as a web developer 
-- 📚 I’m currently learning Nest, Next, Prisma, Jest e TDD
+- 📚 I’m currently learning Nest, Next, Prisma, Jest and TDD
 
 ##
 <div align="center">
@@ -15,85 +15,85 @@
   <img
     align="center"
     alt="JavaScript"
-    height="60"
-    width="60"
+    height="50"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   />
   <img
     align="center"
     alt="NodeJS"
-    height="60"
-    width="60"
+  height="50"
+    width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   />
   <img
     align="center"
     alt="NodeJS"
-    height="60"
-    width="60"
+    height="50"
+    width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
   />
   <img
     align="center"
     alt="React"
-    height="60"
-    width="60"
+    height="50"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   />
   <img
     align="center"
     alt="HTML"
-    height="60"
-    width="60"
+    height="50"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
   />
   <img
     align="center"
     alt="CSS"
-    height="60"
-    width="60"
+    height="50"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
   />
   <img
     align="center"
-    alt="CSS"
-    height="60"
-    width="60"
+    alt="Python"
+    height="50"
+    width="50"
     src="https://www.svgrepo.com/show/354238/python.svg"
   />
   <img
     align="center"
-    alt="CSS"
-    height="60"
-    width="60"
+    alt="Next"
+    height="50"
+    width="50"
     src="https://www.svgrepo.com/show/342062/next-js.svg"
   />
   <img
     align="center"
-    alt="CSS"
-    height="60"
-    width="60"
+    alt="Nest"
+    height="50"
+    width="50"
     src="https://www.svgrepo.com/show/373865/nest-middleware-ts.svg"
   />
-  <img
+ <img
     align="center"
-    alt="CSS"
-    height="60"
-    width="60"
-    src="https://www.svgrepo.com/show/354210/prisma.svg"
+    alt="Prisma"
+    height="50"
+    width="50"
+    src=" https://www.svgrepo.com/show/374002/prisma.svg"
   />
   <img
     align="center"
-    alt="CSS"
-    height="60"
-    width="60"
+    alt="Tailwind"
+    height="50"
+    width="50"
     src="https://www.svgrepo.com/show/374118/tailwind.svg"
   />
   <img
     align="center"
     alt="Jest"
-    height="60"
-    width="60"
+    height="50"
+    width="50"
     src="https://www.svgrepo.com/show/373700/jest.svg"
   />
 </div>
