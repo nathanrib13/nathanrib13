@@ -80,7 +80,7 @@
     alt="Prisma"
     height="50"
     width="50"
-    src=" https://www.svgrepo.com/show/374002/prisma.svg"
+    src="https://www.svgrepo.com/show/374002/prisma.svg"
   />
   <img
     align="center"
